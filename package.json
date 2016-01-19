@@ -1,0 +1,20 @@
+{
+  "name": "react-rdf-templates",
+  "version": "1.0.0",
+  "author": "Patrick Golden",
+  "license": "AGPL-3.0",
+  "description": "React library for generating RDF templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react": "^0.14.6"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.4.0",
+    "browserify": "^13.0.0",
+    "tape": "^4.4.0",
+    "watchify": "^3.7.0"
+  }
+}
